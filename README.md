@@ -8,7 +8,7 @@
 
 ## ÍNDICE
 
-*[Título e imagen de portada](#FLOD-HUB)
+*[Título e imagen de portada](#FLOOD-HUB)
 
 *[Índice](##ÍNDICE)
 
