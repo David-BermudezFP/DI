@@ -14,8 +14,6 @@
 
 *[Descripción del proyecto](#DESCRIPCIÓN_DEL_PROYECTO)
 
-*[Estado del proyecto](#FLOOD_HUB)
-
 * [Cómo funciona la aplicación](##CÓMO_FUNCIONA_FLOOD_HUB_DE_GOOGLE)
 
 *[Demostración de funciones y acceso al projecto](#DEMOSTRACIÓN_DE_FUNCIONES_Y_ACCESO_AL_PROJECTO)
