@@ -16,13 +16,13 @@
 
 * [Cómo funciona la aplicación](##CÓMO_FUNCIONA_FLOOD_HUB_DE_GOOGLE)
 
-*[Demostración de funciones y acceso al projecto](#DEMOSTRACIÓN_DE_FUNCIONES_Y_ACCESO_AL_PROJECTO)
+*[Demostración de funciones y acceso al projecto](#DEMOSTRACIÓN)
 
 *[Tecnologías utilizadas](#TECNOLOGÍAS_UTILIZADAS)
 
 *[Desarrolladores del Proyecto](#DESARROLLADORES)
 
-[Licencia](#LICENCIA)
+*[Licencia](#LICENCIA)
 
 
 ## DESCRIPCIÓN DEL PROYECTO
