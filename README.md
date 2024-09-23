@@ -14,7 +14,7 @@
 
 *[Descripción del proyecto](#DESCRIPCIÓN-DEL-PROYECTO)
 
-* [Cómo funciona la aplicación](##CÓMO-FUNCIONA-FLOOD-HUB-DE-GOOGLE)
+* [Cómo funciona la aplicación](#CÓMO-FUNCIONA-FLOOD-HUB-DE-GOOGLE)
 
 *[Demostración de funciones y acceso al projecto](#demostración-de-funciones-y-acceso-al-projecto)
 
