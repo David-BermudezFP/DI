@@ -10,7 +10,7 @@
 
 *[Título e imagen de portada](#FLOD_HUB)
 
-*[Índice](##_ÍNDICE)
+*[Índice](##ÍNDICE)
 
 *[Descripción del proyecto](#DESCRIPCIÓN_DEL_PROYECTO)
 
@@ -22,7 +22,7 @@
 
 *[Desarrolladores del Proyecto](#DESARROLLADORES)
 
-[Licencia](#lLICENCIA)
+[Licencia](#LICENCIA)
 
 
 ## DESCRIPCIÓN DEL PROYECTO
