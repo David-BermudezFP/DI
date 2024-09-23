@@ -12,13 +12,13 @@
 
 *[Índice](##ÍNDICE)
 
-*[Descripción del proyecto](#DESCRIPCIÓN_DEL_PROYECTO)
+*[Descripción del proyecto](#DESCRIPCIÓN-DEL-PROYECTO)
 
-* [Cómo funciona la aplicación](##CÓMO_FUNCIONA_FLOOD_HUB_DE_GOOGLE)
+* [Cómo funciona la aplicación](##CÓMO-FUNCIONA-FLOOD-HUB-DE-GOOGLE)
 
-*[Demostración de funciones y acceso al projecto](#DEMOSTRACIÓN)
+*[Demostración de funciones y acceso al projecto](#demostración-de-funciones-y-acceso-al-projecto)
 
-*[Tecnologías utilizadas](#TECNOLOGÍAS_UTILIZADAS)
+*[Tecnologías utilizadas](#TECNOLOGÍAS-UTILIZADAS)
 
 *[Desarrolladores del Proyecto](#DESARROLLADORES)
 
