@@ -59,6 +59,8 @@ patrones y tendencias que podrían indicar la probabilidad de inundaciones, incl
 ## DESARROLLADORES
 
 Desarrollado por equipo de Google liderado por Google's Chief Sustainability Officer, [Kate Brandt](https://www.linkedin.com/in/katebrandt).
+- [Daniel Hardbuck](https://www.linkedin.com/in/daniel-harbuck/)
+- [Lance Pierce](https://www.linkedin.com/in/piercelance?trk=public_profile_recommendations)
 
 ## LICENCIA
 
