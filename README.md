@@ -44,7 +44,7 @@ río, y el Modelo de Inundación, que predice las áreas que podrían verse afec
 El acceso a esta herramienta es gratuito y no requiere da más que ingresar a su link desde un navegador, aunque la experiencia de uso es mucho
 más cómoda desde un PC.
 
-Para usar esta plataforma hay que entrar a sites.research.google/floods/. Ahí se abrirá el mapa y tendremos que navegar hasta el país en el que
+Para usar esta plataforma hay que entrar a [sites.research.google/floods/](sites.research.google/floods/). Ahí se abrirá el mapa y tendremos que navegar hasta el país en el que
 queramos ver la información.
 
 Dentro del mapa encontraremos diferentes leyendas que muestran el nivel de riesgo en la zona, que va desde normal hasta extremo y para tener más
@@ -58,7 +58,7 @@ patrones y tendencias que podrían indicar la probabilidad de inundaciones, incl
 
 ## DESARROLLADORES
 
-Desarrollado por equipo de Google liderado por Google's Chief Sustainability Officer, Kate Brandt.
+Desarrollado por equipo de Google liderado por Google's Chief Sustainability Officer, [Kate Brandt](https://www.linkedin.com/in/katebrandt).
 
 ## LICENCIA
 
