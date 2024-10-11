@@ -1,50 +1,54 @@
-#PROCEDURAL
+#Realización de forma procedural
 
 from operaciones import suma, resta, multiplicacion, division
-def solicitar_numeros():
-    # Función para solicitar dos números al usuario
-    a = float(input("Ingresa el primer número: "))
-    b = float(input("Ingresa el segundo número: "))
-    return a, b
 
+# Función para solicitar dos números al usuario
+def solicitar_numeros():
+    # Solicita el primer número y lo convierte a tipo float
+    a = float(input("Ingresa el primer número: "))
+    # Solicita el segundo número y lo convierte a tipo float
+    b = float(input("Ingresa el segundo número: "))
+    return a, b  # Retorna ambos números
+
+# Función principal del programa
 def main():
     while True:
-        # Solicitar los números al usuario
+        # Solicita dos números al usuario
         a, b = solicitar_numeros()
 
-        # Solicitar la operación
+        # Solicita la operación deseada
         print("Operaciones disponibles: suma, resta, multiplicacion, division")
         operacion = input("¿Qué operación deseas realizar? (suma/resta/multiplicacion/division): ").lower()
 
-        # Ejecutar la operación seleccionada
+        # Realiza la operación seleccionada
         if operacion == "suma":
-            resultado = suma(a, b)
+            resultado = suma(a, b)  # Llama a la función suma
         elif operacion == "resta":
-            resultado = resta(a, b)
+            resultado = resta(a, b)  # Llama a la función resta
         elif operacion == "multiplicacion":
-            resultado = multiplicacion(a, b)
+            resultado = multiplicacion(a, b)  # Llama a la función multiplicacion
         elif operacion == "division":
-            resultado = division(a, b)
+            resultado = division(a, b)  # Llama a la función division
         else:
-            print("Operación no válida.")
+            print("Operación no válida.")  # Mensaje de error si la operación no es válida
             continue
 
-        # Mostrar el resultado
+        # Muestra el resultado de la operación
         print(f"El resultado de la {operacion} es: {resultado}")
 
-        # Preguntar si quiere hacer otra operación
+        # Pregunta al usuario si desea realizar otra operación
         continuar = input("¿Quieres hacer otra operación? (s/n): ").lower()
-        if continuar != "s":
+        if continuar != "s":  # Si la respuesta no es 's', se termina el ciclo
             print("¡Gracias por usar la calculadora!")
             break
 
-# Verificar si este archivo se está ejecutando directamente
+# Comprueba si el archivo se está ejecutando directamente
 if __name__ == "__main__":
     main()
 
 
-#ORIENTADO A OBJETOS
-
+# Realizacion de forma orientada a objetos
+#
 # from operaciones import Operaciones
 #
 # class Calculadora:
