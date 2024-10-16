@@ -2,6 +2,7 @@ import tkinter  # Importa la biblioteca tkinter, que permite crear interfaces gr
 
 # Crea la ventana principal de la aplicación
 root = tkinter.Tk()
+root.title("Ejercicio 1")  # Establece el título de la ventana
 
 # Establece las dimensiones de la ventana principal a 300 píxeles de ancho por 150 píxeles de alto
 root.geometry("300x150")

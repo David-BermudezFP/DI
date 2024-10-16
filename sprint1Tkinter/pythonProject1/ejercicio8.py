@@ -2,7 +2,7 @@ import tkinter as tk  # Importa la biblioteca tkinter
 
 # Crea la ventana principal de la aplicación
 root = tk.Tk()
-root.title("Interfaz con Frame")
+root.title("Ejercicio 8")
 
 # Establece las dimensiones de la ventana
 root.geometry("300x400")
