@@ -17,6 +17,10 @@ def jugarsolo():
     solo = tk.Toplevel(root)
     solo.title("Singleplayer")
     solo.geometry("500x300")
+    contadorsolo1 = tk.IntVar()
+    contadorsolo1.set(0)
+    contadorsolo2 = tk.IntVar()
+    contadorsolo2.set(0)
 
     def jugar(jugada_usuario):
         jugada_maquina = random.choice(["piedra", "papel", "tijera"])
@@ -26,10 +30,21 @@ def jugarsolo():
               (jugada_usuario == "papel" and jugada_maquina == "piedra") or
               (jugada_usuario == "tijera" and jugada_maquina == "papel")):
             resultado = "Ganaste"
+            contadorsolo1.set(contadorsolo1.get() + 1)
         else:
             resultado = "Perdiste"
+            contadorsolo2.set(contadorsolo2.get()+1)
         jugadalabel.configure(text=f"Jugada Usuario: {jugada_usuario} \t Jugada Maquina: {jugada_maquina}"
                                    f"\n Resultado: {resultado}")
+        if contadorsolo1.get() == 3:
+            messagebox.showinfo("Resultado", f"Eres el ganador!!"
+                                             f"\n \t  {contadorsolo1.get()} - {contadorsolo2.get()}")
+            solo.destroy()
+
+        if contadorsolo2.get() == 3:
+            messagebox.showinfo("Resultado", f"Perdiste contra la CPU"
+                                             f"\n \t  {contadorsolo1.get()} - {contadorsolo2.get()}")
+            solo.destroy()
 
 
     # Añadimos botones para piedra, papel y tijeras
