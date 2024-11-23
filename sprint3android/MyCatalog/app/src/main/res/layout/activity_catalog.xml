@@ -7,4 +7,16 @@
     android:layout_height="match_parent"
     tools:context=".CatalogActivity">
 
+    <Button
+        android:id="@+id/button_navigate_detail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Navegar al detalle"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintTop_margin="20dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.25" />
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
