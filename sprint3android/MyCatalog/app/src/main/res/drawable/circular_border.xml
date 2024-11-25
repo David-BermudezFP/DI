@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
-    <solid android:color="@android:color/transparent" />
+    <solid android:color="#FFFFFF"/> <!-- Color del fondo -->
+    <corners android:radius="300dp"/> <!-- Hace el fondo circular -->
     <stroke
         android:width="4dp"
-        android:color="@color/black" />
-    <corners android:radius="300dp" />
+        android:color="#000000"/> <!-- Borde opcional -->
 </shape>
