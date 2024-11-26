@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/page_inicio"
+        android:icon="@drawable/icon_inicio"
+        android:title="Catalog"/>
+    <item
+        android:id="@+id/page_configuraciones"
+        android:icon="@drawable/icon_configuracion"
+        android:title="About"/>
+</menu>
